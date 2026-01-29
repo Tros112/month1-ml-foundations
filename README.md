@@ -17,5 +17,10 @@ Build a clean, reproducible baseline ML pipeline:
 - Features used: <brief list>
 
 > Note: If the dataset is too large to store in GitHub, see `data/README.md` for download instructions.
+> 
+> **Reproducibility note:**  
+> If the dataset is not included in this repository due to size or licensing restrictions,
+> download it from the source above and save it as:
+> `data/raw_dataset.csv`
 
 ## Repo Structure
