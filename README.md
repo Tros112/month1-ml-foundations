@@ -10,6 +10,7 @@ Build a clean, reproducible baseline ML pipeline:
 
 ## Dataset
 - Source: <link or citation>
+- Type:
 - Rows: <n>
 - Columns: <n>
 - Target (label): <target_column_name>
